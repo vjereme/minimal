@@ -6,7 +6,7 @@
 
 Pursuing Executive PG Programme in Machine Learning and AI from INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY BANGALORE (IIIT Bangalore)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/IIIT-B.jpeg"/></center>
 
 ---
 ### FATCA & OECD CRS Regulatory Reporting
