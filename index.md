@@ -16,4 +16,4 @@ Pursuing Executive PG Programme in Machine Learning and AI from INTERNATIONAL IN
 ---
 ### Rating & Score Credit Models
 
-<center><img src="assets/img/Rating.jpeg"></center>
+<center><img src="assets/img/common_reporting_standard.gif"/></center>
