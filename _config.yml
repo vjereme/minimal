@@ -1,6 +1,15 @@
 title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+logo: minimal/assets/img/jereme.jpg
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/jereme-wilsander-vasanthan-0a795313">LinkedIn</a> |
+  <a href="https://github.com/vjereme">GitHub</a>
+  
+  <br>   
+  Data enthusiast. 
+  Pursuing my Post Graduate degree in Artificial Intelligence/Machine Learning.
+  I am working as a Technical Manager in Infosys. 
+  <br>
+  </p>
 theme: jekyll-theme-minimal
